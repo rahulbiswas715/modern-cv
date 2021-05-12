@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Rahul Biswas</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+  </head>
+  <body>
+<div class="cloud1">
+  <img src="cloud.png" alt="cloud.png">
+</div>
+<div class="cloud2">
+<img src="cloud.png" alt="cloud.png">
+</div>
+<div class="content">
+      <h1>i'm Rahul Biswas</h1>
+      <p><h3>a Website designer</h3></p>
+      <p></p>
+
+
+</div>
+<div class="mountain">
+  <img src="mountain.png" alt="mountain.png">
+</div>
+
+<hr>
+
+
+
+
+  <div class="middle-container">
+    <div class="profile">
+
+
+
+  <img src="Avatar.jpg" alt="Avatar" class="Avatar">
+
+
+
+      <h2>Hi frds.</h2>
+      <p>I am here to always try to help you as a personal Website designer.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="chillies.png" src="chillies.png" alt="">
+        <h3>My quotes</h3>
+        <p>No one can make you feel inferior without your consent.</p>
+      </div>
+      <div class="skill-row">
+        <img class="computer.png" src="computer.png" alt="">
+        <h3>Think it.</h3>
+        <p>Ask not what your country can do for you; ask what you can do for your country.</p>
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>Improve your skill.</h3>
+      <p>Genius is one percent inspiration and ninety-nine percent perspiration.</p>
+      <a class="btn" href="mailto:rahulbiswas99888@email.com">CONTACT ME</a>
+    </div>
+  </div>
+
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.youtube.com/channel/UC8FC1NDxAQH6BDbzTb5SZBw">youtube</a>
+    <a class="footer-link" href="https://www.facebook.com/rahul.biswas.7796/">Facebook</a>
+    <a class="footer-link" href="https://rahulbiswas715.github.io/cv/">Website</a>
+    <p>© 2021 RAHUL BISWAS.</p>
+  </div>
+
+
+  </body>
+</html>
